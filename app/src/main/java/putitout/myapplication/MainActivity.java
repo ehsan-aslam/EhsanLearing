@@ -16,16 +16,16 @@ public class MainActivity extends Activity {
     MyListAdpater mAdapter;
     public String[] Countries = new String[]{"Australia","India","Pakistan","Oman","Austria"};
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+//    @Override
+//    protected void onCreate(Bundle savedInstanceState) {
+//        super.onCreate(savedInstanceState);
+//        setContentView(R.layout.activity_main);
+//
+//        mListView = (ListView) findViewById(R.id.listView);
+//
+//        mListView.setAdapter(mAdapter);
 
-        mListView = (ListView) findViewById(R.id.listView);
-
-        mListView.setAdapter(mAdapter);
-
-
+//ssssss
     }
 
 
